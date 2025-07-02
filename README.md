@@ -69,21 +69,14 @@
   </a>
 
 ---
-
-## 🧪 Projects
-
-- 📂 **[MSC_FProject](https://github.com/agaboalyazid/MSC_FProject)**: Real-world business analysis with Python + Excel + SQL  
-- 🧠 More dashboards, notebooks, and visualizations coming soon!
-
----
-
-## 📊 GitHub Stats
+<!--
+/*## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agaboalyazid&show_icons=true&theme=default&title_color=004C98&icon_color=f26522&text_color=333&bg_color=ffffff" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agaboalyazid&theme=default&ring=f26522&fire=004C98&currStreakLabel=f26522" width="48%" />
 </p>
-
+-->
 ---
 
 ## 🌐 Connect With Me
