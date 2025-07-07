@@ -17,7 +17,7 @@
 
 ## 💼 Tech Stack
 
-### 🐍 Programming & Analysis
+### - Programming & Analysis
 <p>
   <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
   <img src="https://img.shields.io/badge/-Pandas-000?&logo=pandas" />
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-Seaborn-000?&logo=python" />
 </p>
 
-### 💾 Databases & Querying
+### - Databases & Querying
 <p>
   <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL" />
   <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL" />
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI" />
 </p>
 
-### 🧪 Tools & IDEs
+### - Tools & IDEs
 <p>
   <img src="https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter" />
   <img src="https://img.shields.io/badge/-Anaconda-000?&logo=Anaconda" />
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code" />
 </p>
 
-### 🛠️ Developer Tools
+### - Developer Tools
 <p>
   <img src="https://img.shields.io/badge/-Git-000?&logo=Git" />
   <img src="https://img.shields.io/badge/-GitHub-000?&logo=GitHub" />
