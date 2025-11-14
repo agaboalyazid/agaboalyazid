@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#004c98;">Ashraf Aboalyazid</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=004C98&center=true&vCenter=true&width=500&lines=Data+Analyst+%F0%9F%93%8A;Educator+%7C+Content+Creator;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+data+into+insights+%E2%9C%85" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=004C98&center=true&vCenter=true&width=500&lines=Data+Engineer+%F0%9F%93%8A;Educator+%7C+Content+Creator;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+data+into+insights+%E2%9C%85" alt="Typing intro" />
 </p>
 
 ---
