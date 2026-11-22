@@ -35,15 +35,6 @@ I've also taught data and programming to 490+ students.
 
 ## Experience
 
-#### Teaching
-
-| Role | Organization |
-|---|---|
-| **Data Analysis Instructor**<br/><sub>Aug 2026 – Present</sub> | Andalusia |
-| **Data and AI Instructor**<br/><sub>Apr 2026 – Aug 2026</sub> | EYouth |
-| **DECI Session Lead**<br/><sub>Jul 2025 – Sep 2025</sub> | Udacity |
-| **DEMI Programming Instructor**<br/><sub>Dec 2024 – Sep 2025</sub> | iSchool |
-
 #### Data Training
 
 | Role | Organization |
@@ -51,17 +42,6 @@ I've also taught data and programming to 490+ students.
 | **Data Analytics Intern**<br/><sub>Sep 2024 – Mar 2025</sub> | ALX Africa |
 | **Data Analyst Specialist**<br/><sub>Jun 2024 – Oct 2024</sub> | Digital Egypt Pioneers Initiative (DEPI) |
 
-## Certifications & Education
-
-| Certification | Issuer | Year |
-|---|---|---|
-| **Data Engineer Associate** | DataCamp | <sub>2026</sub> |
-| **SQL Associate** | DataCamp | <sub>2025</sub> |
-| **Forward Program** | McKinsey.org | <sub>2025</sub> |
-| **Data Analytics** | ALX Africa | <sub>2025</sub> |
-| **Professional Foundations** | ALX Africa | <sub>2024</sub> |
-
-**B.Sc. Information Technology** — Kafr El-Sheikh University <sub>· 2024</sub>
 
 ## Featured Projects
 
