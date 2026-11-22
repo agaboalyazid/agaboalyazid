@@ -1,145 +1,65 @@
 <div align="center">
 
-<img src="images/banner.png" width="100%" />
+<img src="images/banner.png" width="100%" alt="Ashraf Aboalyazid — Data Engineer. Building reliable data pipelines, ETL workflows, and scalable data solutions." />
 
-# Hi, I'm Ashraf Aboalyazid 👋
+<br/>
 
-### Data Engineer
-
-Building reliable data pipelines and scalable data solutions.
-
-<p>
-
-<a href="https://www.linkedin.com/in/agaboalyazid">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:agaboalyazid@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/agaboalyazid">
-<img src="https://img.shields.io/github/followers/agaboalyazid?style=for-the-badge"/>
-</a>
-
-</p>
+<a href="https://agaboalyazid.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1B2A?style=flat-square&logo=githubpages&logoColor=22D3EE" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/agaboalyazid/"><img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=flat-square&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/@agaboalyazid"><img src="https://img.shields.io/badge/YouTube-0D1B2A?style=flat-square&logo=youtube&logoColor=22D3EE" alt="YouTube"/></a>
+<!-- Upwork badge goes here once the profile link is confirmed -->
+<a href="mailto:agaboalyazid@gmail.com"><img src="https://img.shields.io/badge/Email-0D1B2A?style=flat-square&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
 
 </div>
 
----
+## About
 
-# 🚀 About Me
+I'm a Data Engineer focused on building ETL pipelines and SQL-based data warehouses that turn raw, messy data into clean, analytics-ready models.
 
-I'm passionate about building robust ETL pipelines, designing scalable data architectures, and automating data workflows.
+I started in data analysis, where I spent time on the consuming end of data: cleaning it, modeling it, and building dashboards. That work showed me how much depends on the pipelines underneath, which is what led me to data engineering.
 
-My interests include:
+Alongside my technical work, I've taught data and programming to 490+ students.
 
-- Data Engineering
-- ETL Pipelines
-- Data Warehousing
-- SQL Optimization
-- Workflow Automation
-- Cloud Data Engineering
+Based in Egypt · Open to full-time, contract, and freelance opportunities
 
----
+## Featured Projects
 
-# 🛠 Tech Stack
+**[SQL Data Warehouse](https://github.com/agaboalyazid/sql-data-warehouse-project)**<br/>
+A SQL Server data warehouse built on the Medallion architecture (Bronze → Silver → Gold), with T-SQL ETL between layers, a star-schema Gold layer, data-quality checks, and full documentation (architecture, data flow, data catalog, naming conventions).<br/>
+<sub>`SQL Server` · `T-SQL` · `Data Modeling` · `Star Schema` — Built hands-on following Data with Baraa's SQL Data Warehouse course.</sub>
 
-<p align="center">
+**[Largest Banks ETL Pipeline](https://github.com/agaboalyazid/largest-banks-etl)**<br/>
+An end-to-end Python ETL pipeline that scrapes the list of the world's largest banks from an archived Wikipedia page, converts market capitalization from USD to GBP, EUR, and INR using exchange rates from a CSV file, loads the result into a CSV file and a SQLite database, runs SQL queries on it, and logs every stage with timestamps.<br/>
+<sub>`Python` · `Requests` · `BeautifulSoup` · `Pandas` · `SQLite` — Completed as a hands-on project in the IBM Data Engineering Professional Certificate (Coursera).</sub>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode"/>
+**Portfolio Website**<br/>
+My personal site with projects, skills, and certifications.<br/>
+Live site: [agaboalyazid.github.io/Portfolio](https://agaboalyazid.github.io/Portfolio/) · Repository: [agaboalyazid/Portfolio](https://github.com/agaboalyazid/Portfolio)<br/>
+<sub>`HTML` · `CSS` · `JavaScript`</sub>
 
-</p>
+## Tech Stack
 
-<p align="center">
+| | |
+|---|---|
+| **Languages** | SQL (T-SQL), Python |
+| **Databases** | SQL Server, SQLite · MySQL (basic) |
+| **Data Engineering** | ETL / ELT, Data Warehousing, Data Modeling, Medallion Architecture |
+| **Python Libraries** | Pandas, Requests, BeautifulSoup |
+| **Analytics** | Power BI, Excel |
+| **Tools** | Git, GitHub, Jupyter, VS Code |
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Warehouse-1F6FEB?style=for-the-badge"/>
-</p>
+## Currently Learning
 
----
+- **Python** — strengthening the fundamentals through hands-on practice
+- **SQL Server** — writing and refining SQL queries
 
-# 📌 Featured Projects
+## Credentials
 
-### 🏦 Largest Banks ETL Pipeline
+- **DataCamp** — Data Engineer Associate Certification
+- **DataCamp** — SQL Associate Certification
+- **ALX Africa** — Data Analytics Certificate
+- **B.Sc. Information Technology** — Kafr El-Sheikh University, 2024
 
-- Extract data from Wikipedia
-- Transform market capitalization into multiple currencies
-- Store data in SQLite
-- Execute SQL queries
-- Log ETL workflow
+<br/>
 
-**Tech:** Python • Pandas • BeautifulSoup • SQLite
-
----
-
-### 🏗 SQL Data Warehouse
-
-Modern SQL Server data warehouse with dimensional modeling, ETL workflows, and analytics.
-
----
-
-### 🌐 Portfolio Website
-
-Personal portfolio showcasing projects, technical skills, and certifications.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=agaboalyazid&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agaboalyazid&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=agaboalyazid&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-- Apache Airflow
-- Docker
-- Spark
-- Azure Data Engineering
-- Data Modeling
-- Production ETL Pipelines
-
----
-
-# 📫 Connect
-
-<p align="center">
-
-<a href="mailto:agaboalyazid@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/agaboalyazid">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/agaboalyazid">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-> **"Clean Data. Clean Code. Better Decisions."**
-
-⭐ Thanks for visiting my profile.
-
-</div>
+<div align="center"><sub>Clean Data. Clean Code. Better Decisions.</sub></div>
