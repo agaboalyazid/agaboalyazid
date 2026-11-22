@@ -1,76 +1,92 @@
 <div align="center">
 
-<img src="images/banner.png" width="100%" alt="Ashraf Aboalyazid — Data Engineer. Building reliable data pipelines, ETL workflows, and scalable data solutions." />
-
-<br/>
+<img src="images/banner.png" width="100%" alt="Ashraf Aboalyazid — Data Engineer" />
 
 <a href="https://agaboalyazid.github.io/Portfolio/"><img src="images/contact-portfolio.svg" height="36" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/agaboalyazid/"><img src="images/contact-linkedin.svg" height="36" alt="LinkedIn"/></a>
 <a href="https://www.youtube.com/@agaboalyazid"><img src="images/contact-youtube.svg" height="36" alt="YouTube"/></a>
 <a href="mailto:agaboalyazid@gmail.com"><img src="images/contact-email.svg" height="36" alt="Email"/></a>
-<!-- Upwork badge goes here once the profile link is confirmed -->
+
+<h3>Data Engineer building ETL pipelines and SQL data warehouses.</h3>
 
 </div>
 
-## About
+## About Me
 
-I'm a Data Engineer focused on building ETL pipelines and SQL-based data warehouses that turn raw, messy data into clean, analytics-ready models.
+I started in data analytics, cleaning data, writing SQL, and building reports, and moved
+into data engineering to work on the pipelines that make data reliable in the first place.
+I care about data quality and enjoy turning messy data problems into practical solutions.
+I've also taught data and programming to 490+ students.
 
-I started in data analysis, where I spent time on the consuming end of data: cleaning it, modeling it, and building dashboards. That work showed me how much depends on the pipelines underneath, which is what led me to data engineering.
+## Technical Skills
 
-Alongside my technical work, I've taught data and programming to 490+ students.
+<p align="center">
+<img src="images/tech-icons.svg" alt="Icons for Python, SQL Server, SQLite, MySQL, Pandas, Jupyter, Git, GitHub, and VS Code."/>
+</p>
 
-Based in Egypt · Open to full-time, contract, and freelance opportunities
+| Area | Technologies |
+|---|---|
+| **Languages** | `SQL (T-SQL)` `Python` |
+| **Databases** | `SQL Server` `SQLite` `MySQL (basic)` |
+| **Data Engineering** | `ETL / ELT` `Data warehousing` `Data modeling` `Medallion architecture` |
+| **Python Libraries** | `Pandas` `Requests` `BeautifulSoup` |
+| **Analytics** | `Power BI` `Excel` |
+| **Tools** | `Git` `GitHub` `Jupyter` `VS Code` |
+
+## Experience
+
+#### Teaching
+
+| Role | Organization |
+|---|---|
+| **Data Analysis Instructor**<br/><sub>Aug 2026 – Present</sub> | Andalusia |
+| **Data and AI Instructor**<br/><sub>Apr 2026 – Aug 2026</sub> | EYouth |
+| **DECI Session Lead**<br/><sub>Jul 2025 – Sep 2025</sub> | Udacity |
+| **DEMI Programming Instructor**<br/><sub>Dec 2024 – Sep 2025</sub> | iSchool |
+
+#### Data Training
+
+| Role | Organization |
+|---|---|
+| **Data Analytics Intern**<br/><sub>Sep 2024 – Mar 2025</sub> | ALX Africa |
+| **Data Analyst Specialist**<br/><sub>Jun 2024 – Oct 2024</sub> | Digital Egypt Pioneers Initiative (DEPI) |
+
+## Certifications & Education
+
+| Certification | Issuer | Year |
+|---|---|---|
+| **Data Engineer Associate** | DataCamp | <sub>2026</sub> |
+| **SQL Associate** | DataCamp | <sub>2025</sub> |
+| **Forward Program** | McKinsey.org | <sub>2025</sub> |
+| **Data Analytics** | ALX Africa | <sub>2025</sub> |
+| **Professional Foundations** | ALX Africa | <sub>2024</sub> |
+
+**B.Sc. Information Technology** — Kafr El-Sheikh University <sub>· 2024</sub>
 
 ## Featured Projects
 
-**[SQL Data Warehouse](https://github.com/agaboalyazid/sql-data-warehouse-project)**
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>SQL Data Warehouse</b><br/>
+<sub>SQL Server warehouse with a Medallion architecture and star schema, built in T-SQL (following Data with Baraa's course).</sub><br/><br/>
+<a href="https://github.com/agaboalyazid/sql-data-warehouse-project">Repository →</a>
+</td>
+<td width="50%" valign="top">
+<b>Largest Banks ETL</b><br/>
+<sub>Python pipeline that scrapes, converts, and loads bank market-cap data into SQLite (IBM Data Engineering Professional Certificate project).</sub><br/><br/>
+<a href="https://github.com/agaboalyazid/largest-banks-etl">Repository →</a>
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/agaboalyazid/sql-data-warehouse-project"><img src="images/sql-data-warehouse.svg" width="100%" alt="SQL Data Warehouse architecture: CRM and ERP CSV files load into 6 Bronze tables with BULK INSERT, are cleaned into 6 Silver tables with quality checks, and exposed as Gold star-schema views fact_sales, dim_customers, and dim_products on SQL Server."/></a>
+## Contact
 
-A SQL Server data warehouse built on the Medallion architecture (Bronze → Silver → Gold), with T-SQL ETL between layers, a star-schema Gold layer, data-quality checks, and full documentation (architecture, data flow, data catalog, naming conventions).<br/>
-<sub>`SQL Server` · `T-SQL` · `Data Modeling` · `Star Schema` — Built hands-on following Data with Baraa's SQL Data Warehouse course.</sub>
-
-**[Largest Banks ETL Pipeline](https://github.com/agaboalyazid/largest-banks-etl)**
-
-<a href="https://github.com/agaboalyazid/largest-banks-etl"><img src="images/largest-banks-etl.svg" width="100%" alt="Largest Banks ETL pipeline: extract from an archived Wikipedia page with Requests and BeautifulSoup, convert market cap from USD to GBP, EUR, and INR using exchange_rate.csv, load to a CSV file and a SQLite database, run a SQL query, and log every phase to code_log.txt."/></a>
-
-An end-to-end Python ETL pipeline that scrapes the list of the world's largest banks from an archived Wikipedia page, converts market capitalization from USD to GBP, EUR, and INR using exchange rates from a CSV file, loads the result into a CSV file and a SQLite database, runs SQL queries on it, and logs every stage with timestamps.<br/>
-<sub>`Python` · `Requests` · `BeautifulSoup` · `Pandas` · `SQLite` — Completed as a hands-on project in the IBM Data Engineering Professional Certificate (Coursera).</sub>
-
-**Portfolio Website**
-
-<a href="https://agaboalyazid.github.io/Portfolio/"><img src="images/portfolio.webp" width="100%" alt="Screenshot of the portfolio homepage in dark theme, showing the hero section: Data Engineer | Data Analyst, Remote — Egypt, and a short introduction."/></a>
-
-My personal site with projects, skills, and certifications.<br/>
-Live site: [agaboalyazid.github.io/Portfolio](https://agaboalyazid.github.io/Portfolio/) · Repository: [agaboalyazid/Portfolio](https://github.com/agaboalyazid/Portfolio)<br/>
-<sub>`HTML` · `CSS` · `JavaScript`</sub>
-
-## Tech Stack
-
-<img src="images/tech-icons.svg" alt="Icons for Python, SQL Server, SQLite, MySQL, Pandas, Jupyter, Git, GitHub, and VS Code."/>
-
-| | |
-|---|---|
-| **Languages** | SQL (T-SQL), Python |
-| **Databases** | SQL Server, SQLite · MySQL (basic) |
-| **Data Engineering** | ETL / ELT, Data Warehousing, Data Modeling, Medallion Architecture |
-| **Python Libraries** | Pandas, Requests, BeautifulSoup |
-| **Analytics** | Power BI, Excel |
-| **Tools** | Git, GitHub, Jupyter, VS Code |
-
-## Currently Learning
-
-- **Python** — strengthening the fundamentals through hands-on practice
-- **SQL Server** — writing and refining SQL queries
-
-## Credentials
-
-- **DataCamp** — Data Engineer Associate Certification
-- **DataCamp** — SQL Associate Certification
-- **ALX Africa** — Data Analytics Certificate
-- **B.Sc. Information Technology** — Kafr El-Sheikh University, 2024
-
-<br/>
-
-<div align="center"><sub>Clean Data. Clean Code. Better Decisions.</sub></div>
+<p align="center">
+<a href="https://agaboalyazid.github.io/Portfolio/"><img src="images/contact-portfolio.svg" height="36" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/agaboalyazid/"><img src="images/contact-linkedin.svg" height="36" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/@agaboalyazid"><img src="images/contact-youtube.svg" height="36" alt="YouTube"/></a>
+<a href="mailto:agaboalyazid@gmail.com"><img src="images/contact-email.svg" height="36" alt="Email"/></a>
+<a href="https://www.upwork.com/freelancers/~010edc52bc84b15766"><img src="images/contact-upwork.svg" height="36" alt="Upwork"/></a>
+<a href="https://mostaql.com/u/agaboalyazid"><img src="images/contact-mostaql.svg" height="36" alt="Mostaql"/></a>
+</p>
